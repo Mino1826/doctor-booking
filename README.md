@@ -1,30 +1,54 @@
 # Doctor Booking App
 
-A responsive doctor appointment booking web app built with React, Vite, Tailwind CSS, React Router, Axios, and React Toastify.
+Doctor Booking App is a responsive React web application for browsing doctors and booking appointments.
 
-## Features
-- Browse doctors
-- View doctor details
-- Book appointments
-- Responsive UI
-- Toast notifications
-- Client-side routing
+This project focuses on frontend development, routing, reusable components, and responsive UI design.
 
 ## Tech Stack
+
 - React
 - Vite
 - Tailwind CSS
 - React Router DOM
 - Axios
 - React Toastify
+- JavaScript
 
-## Getting Started
+## Features
+
+- Browse doctors
+- View doctor details
+- Appointment booking UI
+- Client-side routing
+- Toast notifications
+- Responsive design
+- Clean UI components
+
+## Project Structure
+
+```text
+doctor-booking/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.jsx
+├── package.json
+└── README.md
+
+
+Getting Started
 npm install
 npm run dev
 
-```bash
-git clone https://github.com/Mino1826/food-website.git
-cd food-website
-npm install
-npm run dev
-Runs on http://localhost:5173
+What I Learned
+
+* Building React applications with Vite
+* Creating reusable components
+* Using React Router
+* Designing responsive layouts with Tailwind CSS
+* Managing frontend project structure
+
+Repository
+
+https://github.com/Mino1826/doctor-booking
